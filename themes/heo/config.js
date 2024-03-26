@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到金誉满堂', url: 'https://www.nswh.xyz' }
+    { title: '欢迎来到金誉满堂', url: 'https://www.dazaoip.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -16,10 +16,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享商业思维',
   HEO_HERO_TITLE_2: '影响力打造',
-  HEO_HERO_TITLE_3: 'www.nswh.xyz',
+  HEO_HERO_TITLE_3: 'www.dazaoip.com',
   HEO_HERO_TITLE_4: '专注高端',
   HEO_HERO_TITLE_5: '影响力，请放大你的价值',
-  HEO_HERO_TITLE_LINK: 'https://www.nswh.xyz/category/商业思维',
+  HEO_HERO_TITLE_LINK: 'https://www.dazaoip.com/category/商业思维',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/推荐' },
@@ -41,7 +41,7 @@ const CONFIG = {
     '🏡 公司资质代办',
     '🎁 独家品牌背书'
   ],
-  HEO_INFO_CARD_URL: 'https://www.nswh.xyz', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.dazaoip.com', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
