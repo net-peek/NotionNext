@@ -17,8 +17,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享商业思维',
   HEO_HERO_TITLE_2: '影响力打造',
   HEO_HERO_TITLE_3: 'www.nswh.xyz',
-  HEO_HERO_TITLE_4: '深度思考',
-  HEO_HERO_TITLE_5: '一些简单有效的商业思维',
+  HEO_HERO_TITLE_4: '专注高端',
+  HEO_HERO_TITLE_5: '影响力，请放大你的价值',
   HEO_HERO_TITLE_LINK: 'https://www.nswh.xyz/category/商业思维',
 
   // 英雄区显示三个置顶分类
