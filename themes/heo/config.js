@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到金誉满堂', url: 'https://www.dazaoip.com' }
+    { title: '欢迎来到升维橙界', url: 'https://www.dazaoip.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
